@@ -79,7 +79,7 @@ cat <fileName> | ./ccwc <flag>
 
 ## Contribution
 
-Contributions are welcome! If you find any bugs or want to enhance the app, feel free to open issues or submit pull requests. Please make sure to follow the coding standards and guidelines.
+Contributions are welcome! If you find any bugs or want to enhance the solution, feel free to open issues or submit pull requests. Please make sure to follow the coding standards and guidelines.
 
 Happy coding! If you have any questions or need assistance, don't hesitate to reach out.
 
