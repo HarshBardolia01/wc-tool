@@ -61,11 +61,11 @@ cat <fileName> | ./ccwc <flag>
 
 | Output Requirment      | Command                   |
 | ---------------------- | ------------------------- |
-| Bytes                  | `cat test.txt |./ccwc -c` |
-| Lines                  | `cat test.txt |./ccwc -l` |
-| Words                  | `cat test.txt |./ccwc -w` |
-| Characters             | `cat test.txt |./ccwc -m` |
-| Lines, Words and Bytes | `cat test.txt |./ccwc`    |
+| Bytes                  | `cat test.txt \|./ccwc -c` |
+| Lines                  | `cat test.txt \|./ccwc -l` |
+| Words                  | `cat test.txt \|./ccwc -w` |
+| Characters             | `cat test.txt \|./ccwc -m` |
+| Lines, Words and Bytes | `cat test.txt \|./ccwc`    |
 
 
 
